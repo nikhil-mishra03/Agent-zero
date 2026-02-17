@@ -1,6 +1,6 @@
 # Mini-Claude: Building a Tool-Using Custom Agent
 
-This repository documents the journey of building a **Mini-Claude** agent from scratch, heavily inspired by [Nader Dabit's experiment](https://x.com/dabit3/status/1879668398691582315).
+This repository documents the journey of building a **Mini-Claude** agent from scratch, heavily inspired by [Nader Dabit's experiment](https://x.com/dabit3/status/2009668398691582315).
 
 The goal was to create a lightweight, autonomous coding agent that can read/write files, search the codebase, and even delegate tasks to itself recursively—mirroring the core capabilities of advanced agents like Claude Code or Devin, but in a simple Python script.
 
